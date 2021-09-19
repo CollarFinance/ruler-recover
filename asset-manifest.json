@@ -2,11 +2,11 @@
   "files": {
     "static/js/0.4860cc03.chunk.js": "./static/js/0.4860cc03.chunk.js",
     "static/js/1.44960a5f.chunk.js": "./static/js/1.44960a5f.chunk.js",
-    "static/js/2.f3d55eab.chunk.js": "./static/js/2.f3d55eab.chunk.js",
-    "static/js/3.2926cfbc.chunk.js": "./static/js/3.2926cfbc.chunk.js",
+    "static/js/2.b53b3487.chunk.js": "./static/js/2.b53b3487.chunk.js",
+    "static/js/3.e662b7f9.chunk.js": "./static/js/3.e662b7f9.chunk.js",
     "main.css": "./static/css/main.3982dde6.chunk.css",
-    "main.js": "./static/js/main.1167fc23.chunk.js",
-    "runtime-main.js": "./static/js/runtime-main.8fd642c7.js",
+    "main.js": "./static/js/main.b8a68588.chunk.js",
+    "runtime-main.js": "./static/js/runtime-main.b599878f.js",
     "static/js/6.2761a016.chunk.js": "./static/js/6.2761a016.chunk.js",
     "index.html": "./index.html",
     "static/js/6.2761a016.chunk.js.LICENSE.txt": "./static/js/6.2761a016.chunk.js.LICENSE.txt",
@@ -35,9 +35,9 @@
     "static/media/termIcon.a6bf4fd7.svg": "./static/media/termIcon.a6bf4fd7.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8fd642c7.js",
+    "static/js/runtime-main.b599878f.js",
     "static/js/6.2761a016.chunk.js",
     "static/css/main.3982dde6.chunk.css",
-    "static/js/main.1167fc23.chunk.js"
+    "static/js/main.b8a68588.chunk.js"
   ]
 }

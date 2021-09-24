@@ -1,12 +1,12 @@
 {
   "files": {
-    "static/js/0.4860cc03.chunk.js": "./static/js/0.4860cc03.chunk.js",
-    "static/js/1.44960a5f.chunk.js": "./static/js/1.44960a5f.chunk.js",
+    "static/js/0.773120e9.chunk.js": "./static/js/0.773120e9.chunk.js",
+    "static/js/1.0a3f9cd5.chunk.js": "./static/js/1.0a3f9cd5.chunk.js",
     "static/js/2.b53b3487.chunk.js": "./static/js/2.b53b3487.chunk.js",
-    "static/js/3.e662b7f9.chunk.js": "./static/js/3.e662b7f9.chunk.js",
+    "static/js/3.9d6d8612.chunk.js": "./static/js/3.9d6d8612.chunk.js",
     "main.css": "./static/css/main.3982dde6.chunk.css",
     "main.js": "./static/js/main.54cbe82c.chunk.js",
-    "runtime-main.js": "./static/js/runtime-main.b599878f.js",
+    "runtime-main.js": "./static/js/runtime-main.ce14c494.js",
     "static/js/6.2761a016.chunk.js": "./static/js/6.2761a016.chunk.js",
     "index.html": "./index.html",
     "static/js/6.2761a016.chunk.js.LICENSE.txt": "./static/js/6.2761a016.chunk.js.LICENSE.txt",
@@ -35,7 +35,7 @@
     "static/media/termIcon.a6bf4fd7.svg": "./static/media/termIcon.a6bf4fd7.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b599878f.js",
+    "static/js/runtime-main.ce14c494.js",
     "static/js/6.2761a016.chunk.js",
     "static/css/main.3982dde6.chunk.css",
     "static/js/main.54cbe82c.chunk.js"
